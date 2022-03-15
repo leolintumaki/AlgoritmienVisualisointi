@@ -1,0 +1,9 @@
+C:\Users\leoli\source\repos\AlgoritmienVisualisointi\AlgoritmienVisualisointi\bin\Debug\AlgoritmienVisualisointi.exe.config
+C:\Users\leoli\source\repos\AlgoritmienVisualisointi\AlgoritmienVisualisointi\bin\Debug\AlgoritmienVisualisointi.exe
+C:\Users\leoli\source\repos\AlgoritmienVisualisointi\AlgoritmienVisualisointi\bin\Debug\AlgoritmienVisualisointi.pdb
+C:\Users\leoli\source\repos\AlgoritmienVisualisointi\AlgoritmienVisualisointi\obj\Debug\AlgoritmienVisualisointi.csprojAssemblyReference.cache
+C:\Users\leoli\source\repos\AlgoritmienVisualisointi\AlgoritmienVisualisointi\obj\Debug\AlgoritmienVisualisointi.Form1.resources
+C:\Users\leoli\source\repos\AlgoritmienVisualisointi\AlgoritmienVisualisointi\obj\Debug\AlgoritmienVisualisointi.Properties.Resources.resources
+C:\Users\leoli\source\repos\AlgoritmienVisualisointi\AlgoritmienVisualisointi\obj\Debug\AlgoritmienVisualisointi.csproj.GenerateResource.cache
+C:\Users\leoli\source\repos\AlgoritmienVisualisointi\AlgoritmienVisualisointi\obj\Debug\AlgoritmienVisualisointi.exe
+C:\Users\leoli\source\repos\AlgoritmienVisualisointi\AlgoritmienVisualisointi\obj\Debug\AlgoritmienVisualisointi.pdb
